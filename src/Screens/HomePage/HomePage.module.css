@@ -1,0 +1,67 @@
+.heroSection {
+  position: relative;
+  top: 80px;
+  left: 0px;
+}
+.home_bgimage {
+  width: 98.5vw;
+  height: 400px;
+  position: relative;
+  top: 0;
+  left: 0px;
+  right: 0;
+  filter: brightness(0.5);
+}
+.home_imageText {
+  position: absolute;
+  top: 100px;
+  left: 37vw;
+  z-index: 1;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 20px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 6px;
+}
+.quote {
+  font-size: 20px;
+  font-style: italic;
+}
+.text {
+  padding-top: 20px;
+  font-size: 24px;
+  max-width: 400px;
+}
+.navbar_ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.navbar_li {
+  padding-top: 10px;
+  font-weight: 600;
+}
+.active {
+  color: #5b21b6;
+  border-bottom: 2px solid #5b21b6;
+  text-decoration: none;
+}
+.inactive {
+  color: #aaa;
+  text-decoration: none;
+}
+.active:hover,
+.inactive:hover {
+  color: #5b21b6;
+  text-decoration: none;
+  border-bottom: 2px solid #5b21b6;
+}
+.nav {
+  color: #aaa;
+  padding: 2px 30px 4px 30px;
+  margin: 120px 40px 20px 40px;
+  border-bottom: 2px solid #aaa;
+}

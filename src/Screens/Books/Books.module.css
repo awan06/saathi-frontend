@@ -1,0 +1,23 @@
+.form {
+  max-width: 1200px !important;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.btn {
+  background-color: #5b21b6 !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+  font-size: 22px !important;
+}
+.search {
+  font-size: 18px !important;
+}
+.search:focus,
+.search:active {
+  box-shadow: none !important;
+  border-color: #5b21b6 !important;
+}
+.icon {
+  margin-right: 10px;
+  margin-bottom: 4px;
+}

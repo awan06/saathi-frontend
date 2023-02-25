@@ -1,0 +1,18 @@
+.img {
+  width: 90px;
+  height: 120px;
+}
+.card {
+  box-shadow: 0px 0px 4px #ddd;
+  padding: 15px;
+  align-items: center !important;
+  font-size: 18px;
+}
+.remove {
+  font-weight: 600;
+  cursor: pointer;
+}
+.price {
+  font-weight: 600;
+  font-size: 20px;
+}

@@ -1,0 +1,22 @@
+.btn {
+  background-color: #5b21b6 !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  width: 100% !important;
+  border: #5b21b6 !important;
+  padding: 14px 20px !important;
+}
+.form {
+  max-width: 1300px !important;
+  margin: 0 auto;
+  padding: 20px 15px;
+}
+.input {
+  font-size: 18px !important;
+}
+.input:active,
+.input:focus {
+  box-shadow: none !important;
+  border: 1px solid #5b21b6 !important;
+}
